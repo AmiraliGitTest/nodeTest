@@ -1,0 +1,24 @@
+{
+  "name": "npm2",
+  "version": "1.0.0",
+  "description": "second try",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmiraliGitTest/Git-test-for-Angular.git"
+  },
+  "author": "AmirAli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmiraliGitTest/Git-test-for-Angular/issues"
+  },
+  "homepage": "https://github.com/AmiraliGitTest/Git-test-for-Angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
